@@ -1,5 +1,5 @@
 ## Projeto
-<img src="./imagens/imagem.ideiay.png.jpg" />
+<img src="./imagens/desktop.png" />
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

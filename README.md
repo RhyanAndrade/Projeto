@@ -1,4 +1,4 @@
-## Projeto Cartão de visitas online
+## Projeto cartão de visitas online
 
 <img src="./imagens/github.png" />
 

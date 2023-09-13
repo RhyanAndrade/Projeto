@@ -1,5 +1,5 @@
 
-<img src="./imagens/desktop.png" />
+<img src="./imagens/github.png" />
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
